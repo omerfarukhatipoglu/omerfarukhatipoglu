@@ -12,7 +12,7 @@
 
 <p align="center">
 
-  <a href="https://forcell.net">
+  <a href="https://forcell.net/apps">
 
   
 
