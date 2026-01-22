@@ -14,7 +14,7 @@
 
   <a href="https://forcell.net">
 
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  
 
   </a>
 
