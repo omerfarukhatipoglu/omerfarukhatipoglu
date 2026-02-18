@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ömer Faruk Hatipoğlu! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+TypeScript+Specialist;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Building+Modern+Web+Experiences;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ### 🚀 About Me
 
-I am a passionate **Frontend Developer** focused on building modern, scalable, and user-centric web experiences. I specialize in creating responsive and high-performance applications using modern frontend technologies.
+I am a passionate **Frontend Developer** focused on building modern, scalable, and user-centric web experiences.
 
-- 💻 **Core Focus:** Building dynamic web applications using **React.js**, **TypeScript**, and modern UI architectures.
+- 💻 **Core Focus:** Building dynamic web applications using **React.js**, **TypeScript**, and modern frontend architectures.
 - 🌐 **Portfolio:** Check out my latest work at **[forcell.net/apps](https://forcell.net/apps)**.
-- 🛠️ **Current Goals:** Deepening my expertise in advanced frontend architecture and full-stack integrations with **Go** and **Python**.
+- 🛠️ **Current Goals:** Advancing my frontend architecture skills and strengthening backend integrations with **Go** and **Python**.
 
 ---
 
@@ -27,6 +27,7 @@ I am a passionate **Frontend Developer** focused on building modern, scalable, a
 <div align="left">
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
   <a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose"/></a>
   <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
